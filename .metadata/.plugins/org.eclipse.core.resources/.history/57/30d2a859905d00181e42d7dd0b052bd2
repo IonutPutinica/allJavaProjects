@@ -1,0 +1,22 @@
+
+public class Writer implements Runnable
+{
+   private ReadWrite lock;
+
+   public Writer(ReadWrite lock)
+   {
+      this.lock = lock;
+   }
+
+   @Override
+   public void run()
+   {
+      beforeReading(1000, 2000);
+      lock.acquireRead();
+      reading(500, 1000);
+      lock.releaseRead();
+      afterReading(5000, 10000);
+
+   }
+
+}

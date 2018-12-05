@@ -1,0 +1,12 @@
+
+public class ReadWriteSafe implements ReadWrite
+{
+   private int readers;
+   private int writers;
+
+   public ReadWriteSafe()
+   {
+      readers = 0;
+      writers = 0;
+   }
+}

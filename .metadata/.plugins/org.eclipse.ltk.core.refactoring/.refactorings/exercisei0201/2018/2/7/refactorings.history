@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;utility.collection.BoundedArratTQueueTest.java&apos; to &apos;BoundedArrayTQueueTest.java&apos;&#x0D;&#x0A;- Original project: &apos;exercisei0201&apos;&#x0D;&#x0A;- Original element: &apos;utility.collection.BoundedArratTQueueTest.java&apos;&#x0D;&#x0A;- Renamed element: &apos;utility.collection.BoundedArrayTQueueTest.java&apos;" description="Rename compilation unit &apos;BoundedArratTQueueTest.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;utility.collection{BoundedArratTQueueTest.java" name="BoundedArrayTQueueTest.java" references="false" stamp="1518428534108" version="1.0"/>
+</session>

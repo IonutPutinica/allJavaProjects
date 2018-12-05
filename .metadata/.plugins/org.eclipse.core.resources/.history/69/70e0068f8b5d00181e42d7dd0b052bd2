@@ -1,0 +1,54 @@
+
+public class ReadWriteSafe implements ReadWrite
+{
+   private int readers;
+   private int writers;
+
+   public ReadWriteSafe()
+   {
+      readers = 0;
+      writers = 0;
+   }
+
+   @Override
+   public synchronized void acquireRead()
+   {
+      while (writers > 0)
+      {
+         try
+         {
+            System.out.println(Thread.currentThread().getName()
+                  + "WAIT (readers= " + readers);
+            wait();
+         }
+         catch (InterruptedException ie)
+         {
+            // TODO: handle exception
+         }
+      }
+      System.out.println();
+      readers++;
+   }
+
+   @Override
+   public synchronized void releaseRead()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+   @Override
+   public synchronized void acquireWrite()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+   @Override
+   public synchronized void releaseWrite()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+}

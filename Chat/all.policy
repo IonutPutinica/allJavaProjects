@@ -1,0 +1,4 @@
+grant codeBase "file:./bin/" {
+   permission java.security.AllPermission;
+   permission java.net.SocketPermission "10.152.212.144:1099-", "listen, connect, resolve";
+};

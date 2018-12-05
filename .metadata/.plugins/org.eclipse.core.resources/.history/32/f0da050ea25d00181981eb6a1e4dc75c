@@ -1,0 +1,25 @@
+
+public class RedCar implements Runnable
+{
+   private Lane lock;
+
+   public RedCar(Lane lock)
+   {
+      this.lock = lock;
+   }
+
+   @Override
+   public void run()
+   {
+     while(true)
+     {
+        EnterFromLeft(1000, 2000);
+        lock.acquireRead();
+        reading(500, 1000);
+        lock.releaseRead();
+        afterReading(5000, 10000);  
+     }
+
+   }
+
+}

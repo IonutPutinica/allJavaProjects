@@ -1,0 +1,24 @@
+package testing;
+
+import static org.junit.Assert.*;
+
+import java.util.ArrayList;
+
+import org.junit.Test;
+
+import student.Parent;
+import student.RealStudent;
+
+public class StudentTesting
+{
+
+   Parent parent = new Parent("Name", "1212120000");
+   RealStudent student = new RealStudent("Ionut", "2312980000", parent);
+
+   @Test
+   public void testNewStudent()
+   {
+      assertTrue(student != null);
+   }
+
+}

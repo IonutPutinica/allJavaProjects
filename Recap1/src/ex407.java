@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class ex407
+{
+   public static void main(String args[])
+   {
+      Scanner input = new Scanner(System.in);
+      int i, n;
+      System.out.print("Input n=");
+      n = input.nextInt();
+      for (i = 1; i <= n; i++)
+         System.out.print(i + " ");
+      System.out.println();
+      for (i = 1; i <= n; i++)
+         System.out.print(2 * i + " ");
+      System.out.println();
+      for (i = 1; i <= n; i++)
+         System.out.print(i * i + " ");
+   }
+}

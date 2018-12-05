@@ -1,0 +1,33 @@
+
+public class Bridge implements Lane
+{
+
+   @Override
+   public void enterFromTheLeft()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+   @Override
+   public void exitToTheRight()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+   @Override
+   public void enterFromTheRight()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+   @Override
+   public void exitToTheLeft()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+}

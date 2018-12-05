@@ -1,0 +1,25 @@
+
+public class Reader implements Runnable
+{
+   private ReadWrite lock;
+
+   public public Reader(ReadWrite lock)
+   {
+      this.lock = lock;
+   }
+
+   @Override
+   public void run()
+   {
+      while(true)
+      {
+         beforeReading(1000, 2000);
+         
+      }
+
+   }
+   private void beforeReading(int minTime, int maxTime)
+   {
+      
+   }
+}

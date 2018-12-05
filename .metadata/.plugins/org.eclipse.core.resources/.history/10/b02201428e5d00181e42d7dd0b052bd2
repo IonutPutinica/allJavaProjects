@@ -1,0 +1,18 @@
+
+public class Reader implements Runnable
+{
+   private ReadWrite lock;
+   
+   public public Reader(ReadWrite lock)
+   {
+      
+   }
+
+   @Override
+   public void run()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+}

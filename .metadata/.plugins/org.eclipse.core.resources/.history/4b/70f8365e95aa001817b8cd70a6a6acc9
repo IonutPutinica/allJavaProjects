@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class ex403
+{
+   Scanner input = new Scanner(System.in);
+   int a=0;
+   {
+   while(a<10 && a>25)
+   {
+      a=input.nextInt();
+      
+   }
+      
+}
+}

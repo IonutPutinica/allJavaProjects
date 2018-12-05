@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class ex403
+{
+   public static void main(String args[])
+   {
+      Scanner input = new Scanner(System.in);
+      int a;
+      System.out.print("Please input your number=");
+      a = input.nextInt();
+      while (a < 10 || a > 25)
+      {
+         System.out.print("Invalid number, please input a new one=");
+         a = input.nextInt();
+      }
+      System.out.println("The number is=" + a);
+
+   }
+}

@@ -1,0 +1,18 @@
+
+public class RedCar implements Runnable
+{
+   private Bridge lock;
+
+   public RedCar(Bridge lock)
+   {
+      this.lock = lock;
+   }
+
+   @Override
+   public void run()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+}

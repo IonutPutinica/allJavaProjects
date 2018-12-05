@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;RedCar.reading(...)&apos; to &apos;passing&apos;&#x0D;&#x0A;- Original project: &apos;SingleLaneBridge&apos;&#x0D;&#x0A;- Original element: &apos;RedCar.reading(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;RedCar.passing(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;reading&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{RedCar.java[RedCar~reading~I~I" name="passing" references="true" stamp="1526981431790" version="1.0"/>
+</session>

@@ -1,0 +1,36 @@
+
+public class Bridge implements Lane
+{
+   public int numberOfBlueCars;
+   public int numberOfRedCars;
+   public boolean lightState;
+
+   @Override
+   public void enterFromTheLeft()
+   {
+      
+
+   }
+
+   @Override
+   public void exitToTheRight()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+   @Override
+   public void enterFromTheRight()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+   @Override
+   public void exitToTheLeft()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+}

@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class ex404
+{
+public static void main(String args[])
+{
+   String str;
+   int totalNumberOfCharacters=0;
+   Scanner input=new Scanner(System.in);
+   str=input.nextLine();
+}
+}

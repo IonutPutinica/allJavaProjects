@@ -1,0 +1,17 @@
+
+public class Writer implements Runnable
+{
+   private ReadWrite lock;
+   
+   public Writer()
+   {
+      
+   }
+   @Override
+   public void run()
+   {
+      // TODO Auto-generated method stub
+
+   }
+
+}

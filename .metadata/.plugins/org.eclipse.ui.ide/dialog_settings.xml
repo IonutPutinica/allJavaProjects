@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\GitSep3"/>
+		<item value="D:\GitSep3\Middleware"/>
+		<item value="D:\Ecl\Middleware"/>
+		<item value="D:\Via Stuff 3\SDJ\dk"/>
+		<item value="D:\Ecl"/>
+		<item value="C:\Users\Ionut\Desktop\ServerProjectSDJ"/>
+		<item value="C:\Users\Ionut\Desktop\SDJAssignmentClient"/>
+		<item value="C:\Users\Ionut\Desktop\testing"/>
+		<item value="D:\VIA Stuff 2\Syst\ClassBookServer"/>
+		<item value="D:\VIA Stuff 2\Syst\ClassBookClient"/>
+		<item value="D:\Ecl\ObserverPattern_Exercise_1"/>
+		<item value="D:\Ecl\ClassBookServer"/>
+		<item value="D:\Ecl\ClassBookClient"/>
+		<item value="D:\Ecl\WS01"/>
+		<item value="D:\Ecl\Exercise_16_01"/>
+		<item value="C:\Users\Ionut\Desktop\Exercise_14_05"/>
+		<item value="C:\Users\Ionut\Desktop\Exercise_14_04"/>
+		<item value="C:\Users\Ionut\Desktop\Exercise_14_02"/>
+		<item value="C:\Users\Ionut\Desktop\Exercise_14_01B"/>
+		<item value="C:\Users\Ionut\Desktop\Exercise_14_01A"/>
+		<item value="D:\VIA Stuff 2\CDGUI (Swing)"/>
+		<item value="D:\VIA Stuff 2\Exercise_10_01"/>
+		<item value="D:\VIA Stuff 2\WS2Z1403"/>
+		<item value="D:\Ecl\Exercise0302\src"/>
+		<item value="D:\Ecl\Exercise_06_01"/>
+		<item value="D:\VIA Stuff\Group1"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\VIA Stuff 2\JavaFXEx\TemperatureConversion-JavaFX-NoTimer"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="347" key="DIALOG_X_ORIGIN"/>
+			<item value="190" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="645" key="DIALOG_HEIGHT"/>
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="94" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
